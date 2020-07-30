@@ -1,7 +1,6 @@
-# Mosaic-Dataset
 ## Image Processing Course Project
 
-This folder contains the files for the project. 
+### This folder contains the files for the project. 
 
 1. Tile images is in the folder "Dataset"
 
