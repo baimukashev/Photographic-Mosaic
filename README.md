@@ -1,5 +1,5 @@
 # Mosaic-Dataset
-Image Processing Course Project
+## Image Processing Course Project
 
 This folder contains the files for the project. 
 
@@ -9,7 +9,9 @@ This folder contains the files for the project.
 	 dataset_rename_images.m are used in the preparation step of the Dataset. Therefore, they are NOT needed to run.
 	 
 3. Files main_para and main_rect are main documents for paralelogram and rectangular 
-implementation of the mosaic. How to run them: 
+implementation of the mosaic. 
+
+4. To run the script 
 
 main_para (path_to_dataset, a, b, original_photo)
 
